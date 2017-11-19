@@ -25,7 +25,7 @@ SECRET_KEY = 'fpl5y7@$q&ki2$_ctypj%gpup)ig+pif96c9y!j^!+=vfe=2qo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<BeeSquared>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'BeeSquared.pythonanywhere.com']
 
 
 # Application definition
